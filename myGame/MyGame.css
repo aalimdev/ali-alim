@@ -1,0 +1,37 @@
+img{
+    
+    width:50%;
+}
+hr{
+    width:50%;
+}
+
+#scores{
+    display:inline-flex;
+}
+
+select{
+    border-radius:50px;
+    width:40px;
+}
+option{
+    text-align: center;
+}
+#player1{
+    /* width:125px; */
+    background-color: #0dd377;
+}
+#player2{
+    /* width:125px; */
+    background-color: #3c64e6;
+}
+#reset{
+    /* width:125px; */
+    background-color: #eb0612;
+}
+button{
+    width:17%;
+    padding:10px;
+    color:white;
+    border-radius: 10px;
+}
